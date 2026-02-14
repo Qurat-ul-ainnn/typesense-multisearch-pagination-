@@ -86,7 +86,7 @@ The scraper included in this repository demonstrates:
 4. **Parsing JSON responses** and extracting relevant fields  
 5. **Exporting results to CSV** for analysis  
 
-You can find the Python scraper file here: [📄`scraper.py`](./scraper.py) 
+You can find the Python scraper file here: [📄`scraper.py`](https://github.com/Qurat-ul-ainnn/typesense-multisearch-pagination-/blob/main/scrapper.py) 
 
 ---
 
