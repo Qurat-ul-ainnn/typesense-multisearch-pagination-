@@ -1,0 +1,16 @@
+{
+  "results": [
+    {
+      "found": 1200,
+      "hits": [
+        {
+          "document": {
+            "id": 1,
+            "title": "Example Item",
+            "description": "This is a sample response."
+          }
+        }
+      ]
+    }
+  ]
+}
